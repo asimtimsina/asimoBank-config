@@ -8,7 +8,7 @@ accounts:
   message: "Welcome to Asimo Bank related to Prod env"
   contactDetails:
     name: "Bank CEO - QA Lead"
-    email: "newCEO@test.com"
+    email: "{cipher}e3c156202266fc0f6357d3ee04ed21540be613af45e0a193a2cdfbbaadca1ebd95ca3f4de34672d8c4841c1aed4f392a"
   onCallSupport:
     - (555)555-1212
     - (555)555-2121
