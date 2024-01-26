@@ -1,0 +1,13 @@
+
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Asimo Bank related to Prod env"
+  contact-details:
+    name: "Asimo PROD"
+    email : "prod@test.com"
+  onCallSupport:
+    - (456)456-4567
+    - (456)456-7654

@@ -1,0 +1,17 @@
+
+
+#  profiles:
+#    active: "qa"
+# if not defined will take this as active
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Asimo Bank related to Dev env"
+  contact-details:
+    name: "Asimo Dev"
+    email: "dev@asimo.com"
+  onCallSupport:
+    - (789)789-7890
+    - (789)789-0987

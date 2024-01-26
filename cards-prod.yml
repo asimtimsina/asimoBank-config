@@ -1,0 +1,15 @@
+
+
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Asimo Bank related to Prod env"
+  contact-details:
+    name: "Asim T"
+    email: "asimt@test.com"
+  onCallSupport:
+    - (123)123-1234
+    - (321)321-3210
+
+

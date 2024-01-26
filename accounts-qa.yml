@@ -1,0 +1,14 @@
+
+
+build:
+  version: "2.0"
+
+
+accounts:
+  message: "Welcome to Asimo Bank related to QAs"
+  contactDetails:
+    name: "Smitha Ray - QA Lead"
+    email: "smitha@test.com"
+  onCallSupport:
+    - (555)555-4321
+    - (555)555-5432

@@ -1,0 +1,14 @@
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Asimo Bank related to QA env"
+  contact-details:
+    name: "Asimo QA"
+    email: "qa@loans.com"
+  onCallSupport:
+    - (123)123-1234
+    - (123)123-4321
+
+

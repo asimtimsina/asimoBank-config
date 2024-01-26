@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Asimo Bank related to dev env"
+  contactDetails:
+    name: "Asimo DEV"
+    email: "asimodev@dev.com"
+  onCallSupport:
+    - (456)456-4567
+    - (654)654-6547

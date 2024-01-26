@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Asimo Bank related to QA env"
+  contactDetails:
+    name: "Asimo QA"
+    email: "asimoqa@gmail.com"
+  onCallSupport:
+    - (789)789-7890
+    - (987)987-9870
