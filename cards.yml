@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Asimo Bank related to dev env"
+  message: "Welcome to Asimo Bank related to DEVELOPER env"
   contactDetails:
     name: "Asimo DEV working hardly working."
     email: "asimodev@dev.com"
