@@ -4,8 +4,8 @@ build:
 cards:
   message: "Welcome to Asimo Bank related to dev env"
   contactDetails:
-    name: "Asimo DEV working hard everyday."
+    name: "Asimo DEV working hardly working."
     email: "asimodev@dev.com"
   onCallSupport:
-    - (456)456-2222
-    - (654)654-2222
+    - (123)456-2222
+    - (123)654-2222
